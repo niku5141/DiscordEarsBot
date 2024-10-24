@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "metal-imprint-426319-b1",
+  "private_key_id": "e090d37e65ec6778f0fde95204c4f7e6cc803d00",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC6/Ch80QtsqnO4\nzw+e6uhME+m1sJVMTqs+nkV2iqiQoTVghfEHM5vJAV+O8FCw6Garm2FA9jCPkDrG\nVxh376ezk05MQs6/f12tAu37+m1ccL5FzmpHrmRlmkdXpjBJeNdETiWiXrd4v6Hz\nHKcjqOmprfWlH4rPBx0d4E7QWyW6a0HBYBePEkPaunLs1tF1Y7p7DIwQgoP6uCdy\nnKMFlK4NdByZ9GNtxIAIRJGP/Nq0tOoPZjzU2i3/nn/MlyNmyXI9OZfUFWHOwJHp\ng8r8zk1U7DPrRXAXqO6ITqD5GHvA9dQJShAM7VfjP5319JaxkX1Q7dl1QwREf/VV\nL6vUix05AgMBAAECggEABGde7r2fpsIG8rHRvNzsdqo7ZV+QzJjHuLRSj32phap+\nTtUovZIuF5hUL1IinGAE1wLUUgraTu9HKxevCFgZG4YbIHmsU99EjggVIcuemsA/\nAvbfEuwdCjWNe5d66KgTbdTnVwEjEhF1V3vzxce7JRdnQynQg5q3yVXYlVioNVE6\nCAdBtX/l7HhD4m4IWlV4uQET0hDxOhlOD4Wh7St0tfpl6beXn4MhaGxrDIAdVdKn\n13uc4tkHSPMMFVp7viAuaeJJitFx4NYRjBTHa4Rvk2w9DRrVZgzn/xhYnUIeLXOp\n+qPR9sYKuJncFKEF1mzVkq34xyDymKZ0hSdzAlOPQQKBgQDr1ZOdcaIrQHCxMr5J\nV4WnxAYwksEGjqpVlpUdgNH1L4SFyu9nnHjltH9h18JSBKcHKDA7UJnYrtsXHO+v\nX0VR6ZlweeZXn9PVNXC3UTvjAl6jiFEorWSKJKpfSjwcbIXpPXyxmsFSvIBrDD6Q\nIKVNatOCm2i2f8IChBPNrIv1iQKBgQDK+USvEFFCa6apJdVlTxK5KAGo1vF09OFt\nNo4fd229hZlckuU/orr9Kz9C+Pf4PJ6RsXsbZZT7LQyL3UDwEnmrt++HSHBwDkKB\nItASC6B/aOQ6f6qjUat24c1Fev34EokOUm2m/id1vpNMtJ6lN39Na0dLJDO/CFHy\njMfqzG6uMQKBgEbtHs4VJM6ZPMsuFah9GAdSnwHwwPi142iGNyZ+Xaa9ub97PvEM\nUBfVZxIID7sXBxzR61+LaBmQzPdwjm1R28k81hbLsojb2puezN11IuutBMVt8+ql\n6zzYthyeeOGbidKR2XSYtFertXt8XTx/dPeJjz8SejWYysJy8nnC0PzxAoGALzik\n2RGzxf8ji/CoX+Rwl7EOCcjP7gTWuUDa+ckgN9pwHpByU0a5uBKqqhsgHZmEzqJ6\n4JnWekU1yQhVhkTWF7Q4PsIEnp1CraZ6v+gClAHELzPqcAqdGJBZ4FNH6MHvLuzQ\nY+x3I7aNsGfJDOkHbeyKbpnijAwUfJhyHlcnXNECgYBaTPjHxbz8UGpypVPqIkWi\ntWuyf0XLoT1CfSWAqbikHGhTQ5EU0WQS0HsH88AdHscayxz8Qv+xtCUZR4xLVzW7\njpRT32bPEJcjp3hbsYJfmPmz6G3TU7KVhqLPIwsVHjPmzbWf0vv9xWNuOQ3atEYB\nhs7Kl3svc+pPA2QzKsmd3w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "niku-574@metal-imprint-426319-b1.iam.gserviceaccount.com",
+  "client_id": "110926959841328894070",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/niku-574%40metal-imprint-426319-b1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
