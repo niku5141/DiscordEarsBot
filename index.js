@@ -57,9 +57,9 @@ async function convert_audio(input) {
 
 const SETTINGS_FILE = 'settings.json';
 
-let DISCORD_TOK = null;
+let DISCORD_TOK = e090d37e65ec6778f0fde95204c4f7e6cc803d00;
 let WITAI_TOK = null; 
-let SPEECH_METHOD = 'vosk'; // witai, google, vosk
+let SPEECH_METHOD = 'google'; // witai, google, vosk
 
 function loadConfig() {
     if (fs.existsSync(SETTINGS_FILE)) {
